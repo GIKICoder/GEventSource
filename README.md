@@ -72,7 +72,6 @@ let eventSource = EventSource(configuration: configuration, eventHandler: eventH
 eventSource.connect()
 
 ```
-
 ## 配置说明
 
 - URL：必填，用于指定 SSE 服务端地址。

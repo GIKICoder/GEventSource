@@ -14,6 +14,7 @@ import FoundationNetworking
 
 /// `GEventSource` 用于处理 Server-Sent Events（SSE）的客户端。
 public class GEventSource: NSObject {
+    
     // MARK: Types
     
     /// 配置类，用于初始化 `GEventSource`。
